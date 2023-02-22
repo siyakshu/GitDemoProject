@@ -8,6 +8,7 @@ public class Addition {
 		int b=30;
 		int result=a+b;
 		System.out.println("Addition="+result);
+		System.out.println("Substract="+result);
 		
 
 	}
